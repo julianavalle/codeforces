@@ -1,0 +1,12 @@
+# VS Code
+.vscode/
+# ou apenas o tasks.json específico:
+# .vscode/tasks.json
+
+# binários/artefatos
+exec
+a.out
+*.out
+*.o
+*.obj
+*.exe
